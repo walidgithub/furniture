@@ -1,0 +1,100 @@
+{
+  "Home": "Home",
+  "Our Location": "Our Location",
+  "Your Order": "Your Order",
+  "Notifications": "Notifications",
+  "Cart": "Cart",
+  "Carts": "Cart Items",
+  "About": "About Us",
+  "Profile": "Profile",
+  "Product name:": "Product name",
+  "Product count:": "Product count",
+  "Contact": "Contact with us:",
+
+  "Something error": "Something error, please try again later",
+
+  "User or password error": "User or password error",
+
+  "Image Required": "Image Required",
+
+  "Loading": "Loading",
+  "LogOut": "Log out",
+
+  "Track Your Order": "Track Your Order",
+  "Change Language": "العربية",
+  "Light Mode": "Light Mode",
+  "Dark Mode": "Dark Mode",
+
+  "Pick Photo": "Pick Photo",
+  "Name": "Your Name",
+
+  "Email Not Valid": "Email Not Valid",
+  "Empty Field": "Empty Field",
+  "Check Password": "Check Password",
+  "Check Password": "Check Main Password",
+
+  "Successfully Registered": "Successfully Registered",
+  "Successfully Login": "Successfully Login",
+
+  "Email": "Email",
+  "Password": "Password",
+  "Confirm Password": "Confirm Password",
+
+  "SignIn" : "Sign in",
+  "SignUp": "Sign up",
+  "OrSignInWith": "Or sign in with:",
+  "OrSignUpWith": "Or sign up with:",
+  "DontHaveAnAccount": "Don't have an account?",
+
+  "LoginToAccount": "Login to your Account",
+  "CreateYourAccount": "Create your Account",
+
+  "Details": "Details",
+  "Description": "Description",
+
+  "Read more": " ...Read more",
+  "Less": " Read Less",
+
+  "Add to cart": "Add to cart",
+  "Check out": "Check out",
+  "In cart": "In Cart",
+  "Price:": "Price",
+  "Settings": "Settings",
+  "reviews": "reviews",
+
+  "Error": "Error",
+  "Sorry, there is no internet": "Sorry, there is no internet",
+  "Close": "Close",
+
+  "Search Results": "Search Results",
+
+  "Send Verification": "Verification Email sent! Please check your email",
+  "Confirm Verification": "Please log in your email and click on verification link",
+  "Found Same Email": "This email has registered before",
+
+  "Notification not deleted": "Notification not deleted",
+  "Notification deleted": "Notification deleted",
+  "Show Notification Error": "Show Notifications Error",
+
+  "Notification not sent": "Notification not sent",
+
+  "View all": "View all",
+
+  "No Route Found": "No Route Found",
+  "Best Furniture": "Best Furniture",
+  "in your home.": "in your home.",
+  "Search": "Search",
+  "Categories": "Categories",
+  "Top Chair": "Top Chair",
+  "Top Sofa": "Top Sofa",
+  "Top CubBoard": "Top CubBoard",
+  "Top Table": "Top Table",
+  "All Chairs": "All Chairs",
+  "All Cupboards": "All Cupboards",
+  "All Sofas": "All Sofas",
+  "All Tables": "All Tables",
+  "Chair": "Chair",
+  "Table": "Table",
+  "Cupboard": "Cupboard",
+  "Sofa": "Sofa"
+}

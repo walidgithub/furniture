@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">800286997607-av8n20hdqdsg2dvdtj6kstv1ir79o45h.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">800286997607</string>
+    <string name="google_api_key" translatable="false">AIzaSyCiwE-6i3JDjL3G6Hq13AUOGGwi1P_0axI</string>
+    <string name="google_app_id" translatable="false">1:800286997607:android:d1cdd07c5790a54d81a8c2</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyCiwE-6i3JDjL3G6Hq13AUOGGwi1P_0axI</string>
+    <string name="google_storage_bucket" translatable="false">furniture-d157a.appspot.com</string>
+    <string name="project_id" translatable="false">furniture-d157a</string>
+</resources>

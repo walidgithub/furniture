@@ -1,0 +1,101 @@
+{
+  "Home": "الرئيسية",
+  "Our Location": "موقعنا",
+  "Your Order": "طلبك",
+  "Notifications": "الإشعارات",
+  "Cart": "العربة",
+  "Carts": "أصناف العربة",
+  "About": "من نحن",
+  "Profile": "البروفايل",
+  "Product name:": "اسم المنتج",
+  "Product count:": "كمية المنتج",
+  "Contact": "تواصل معنا:",
+
+  "Something error": "حدث خطأ ما، حاول مرة أخرى لاحقًا",
+
+  "User or password error": "خطأ فى اسم المستخدم أو كلمة المرور",
+
+  "Notification not sent": "لم يتم ارسال الإشعار",
+
+  "Notification not deleted": "لم يتم حذف الإشعار",
+  "Notification deleted": "تم إلغاء الإشعار",
+  "Show Notification Error": "خطأ فى عرض الإشعارات",
+
+  "Image Required": "الصورة مطلوبة",
+
+  "Loading": "انتظر لحظات",
+  "LogOut": "خروج",
+
+  "Send Verification": "تم إرسال رسالة تأكيد، من فضلك تأكد من الإيميل الخاص بك",
+  "Confirm Verification": "من فضلك ادخل الى ايميلك واضغط على رابط التأكيد",
+  "Found Same Email": "تم التسجيل بهذا الايميل مسبقًا",
+
+  "Track Your Order": "تتبع طلبك",
+  "Change Language": "العربية",
+  "Light Mode": "الوضع المضئ",
+  "Dark Mode": "الوضع المظلم",
+
+  "Name": "الإسم",
+
+  "Email Not Valid": "يجب كتابة الإيميل بشكل صحيح",
+  "Empty Field": "يجب ملئ هذا الحقل",
+  "Check Password": "تأكد من الباسورد",
+  "Check Password": "تأكد من الباسورد الأساسي",
+
+  "Successfully Registered": "تم التسجيل بنجاح",
+  "Successfully Login": "تم الدخول بنجاح",
+
+  "Email": "الإيميل",
+  "Password": "الباسورد",
+  "Confirm Password": "تأكيد الباسورد",
+
+  "Pick Photo": "التقاط صورة",
+
+  "SignIn" : "دخول",
+  "SignUp": "خروج",
+  "OrSignInWith": "أو أدخل عن طريق:",
+  "OrSignUpWith": "أو سجل عن طريق:",
+  "DontHaveAnAccount": "ليس لديك حساب?",
+
+  "LoginToAccount": "أدخل لحسابك",
+  "CreateYourAccount": "إنشأ حسابك",
+
+  "Details": "تفاصيل",
+  "Description": "الوصف",
+
+  "Read more": " ...إقرأ أكثر",
+  "Less": " إقرأ أقل",
+
+  "Add to cart": "أضف الي العربة",
+  "Check out": "الدفع",
+  "In cart": "في العربة",
+  "Price:": "السعر",
+  "Settings": "الإعدادات",
+  "reviews": "تقييمات",
+
+  "Error": "خطأ",
+  "Sorry, there is no internet": "نأسف, انقطع الاتصال بالانترنت",
+  "Close": "اغلاق",
+
+  "Search Results": "نتائج البحث",
+
+  "View all": "مشاهدة الكل",
+
+  "No Route Found": "لا توجد شاشة بهذا الاسم",
+  "Best Furniture": "الأثاث الأفضل",
+  "in your home.": "في بيتك.",
+  "Search": "بحث",
+  "Categories": "الفئات",
+  "Top Chair": "الأكثر طلبا",
+  "Top Sofa": "الأكثر طلبًا",
+  "Top CubBoard": "الأكثر طلبا",
+  "Top Table": "الأكثر طلبا",
+  "All Chairs": "عرض الكل",
+  "All Cupboards": "عرض الكل",
+  "All Sofas": "عرض الكل",
+  "All Tables": "عرض الكل",
+  "Chair": "كرسي",
+  "Table": "طرابيزة",
+  "Cupboard": "دولاب",
+  "Sofa": "كنبة"
+}
