@@ -10,3 +10,5 @@ Localization<br />
 Get_it<br />
 Cashing<br />
 Error handling<br />
+Themes
+Centralization for (routes - colors - strings - styles - fonts - assets)
